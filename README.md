@@ -1,3 +1,5 @@
+<p align ="center" " margin-bottom="10px"><img  src="https://cdn.dribbble.com/users/68746/screenshots/1443011/homework_dribbble.gif" width ="50%"></p>
+
 ### Hi there, I'm Kumar Harsh - aka [cenacr007]👋
 
 <!-- [website]  -->
