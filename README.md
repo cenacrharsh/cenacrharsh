@@ -1,7 +1,7 @@
 <p align ="center" " margin-bottom="10px"><img  src="https://cdn.dribbble.com/users/68746/screenshots/1443011/homework_dribbble.gif" width ="50%"></p>
-
-### Hi there, I'm Kumar Harsh - aka [cenacr007]👋
-
+<p margin-bottom="10px"><h1 align="center" > Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Kumar Harsh  </h1></p>
+<p align="center" margin-top="10px" >
+               
 <!-- [website]  -->
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
