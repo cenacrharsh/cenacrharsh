@@ -1,23 +1,18 @@
 <p align ="center" " margin-bottom="10px"><img  src="https://cdn.dribbble.com/users/68746/screenshots/1443011/homework_dribbble.gif" width ="50%"></p>
 <p margin-bottom="10px"><h1 align="center" > Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Kumar Harsh  </h1></p>
 <p align="center" margin-top="10px" >
-               
-<!-- [website]  -->
-                            
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Student, Programmer, Developer, and Blogger!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I am currently in 2nd yr of my College.
+- 🌱 I’m currently Web Development and Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sketch, read Novels and play FPS games.
+- ⚡ Fun fact: I love to read novels, play games and watch anime.
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31evzgjsnmrdwqubdb4xhqze2oca)
 
 ### Connect with me:
 
