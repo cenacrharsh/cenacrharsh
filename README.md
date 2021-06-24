@@ -5,9 +5,9 @@
 ## I'm a Student, Programmer, Developer, and Blogger!!
 
 - 🔭 I am currently in 2nd yr of my College.
-- 🌱 I’m currently Web Development and Data Structures and Algorithms.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Full Stack Web Development & Data Structures and Algorithms.
+- 👯 I’m looking to collaborate with other Open Source Contributors.
+- 🥅 2021 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I love to read novels, play games and watch anime.
 
 ### Spotify Playing 🎧
