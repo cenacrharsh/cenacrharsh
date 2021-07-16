@@ -68,6 +68,11 @@
 
 <img align="left" alt="cenacrharsh's GitHub Stats" src="https://github-readme-stats-cenacrharsh.vercel.app
 /api?username=codeSTACKr&show_icons=true&hide_border=true" />
+                                   
+                                   ## My Github Status 🦸
+
+![](https://github-readme-stats-cenacrharsh.vercel.app
+/api?username=cenacrharsh&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 [twitter]: https://twitter.com/cenacr007_harsh
 [instagram]: https://www.instagram.com/lone_wolf_harsh22/
