@@ -69,6 +69,9 @@
 ## My Github Status 🦸
 
 ![](https://github-readme-stats-cenacrharsh.vercel.app/api?username=cenacrharsh&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+                                                                                                                              
+[![Spotify](https://spotify-now-playing-cenacrharsh.vercel.app
+/api/spotify)](https://open.spotify.com/user/31evzgjsnmrdwqubdb4xhqze2oca)
 
 [twitter]: https://twitter.com/cenacr007_harsh
 [instagram]: https://www.instagram.com/lone_wolf_harsh22/
