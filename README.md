@@ -59,12 +59,12 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## My Recent Blog posts ✍️
 
-  <img align="left" alt="cenacrharsh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+<!-- BLOG-POST-LIST:START -->
+- []()
+- []()                                                                                                                              
+<!-- BLOG-POST-LIST:END -->
 
 [twitter]: https://twitter.com/cenacr007_harsh
 [instagram]: https://www.instagram.com/lone_wolf_harsh22/
