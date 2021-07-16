@@ -74,7 +74,7 @@
 
 [<img src="https://spotify-now-playing-cenacrharsh.vercel.app/api/spotify-playing" alt="cenacrharsh Spotify Playing" width="350" />](https://open.spotify.com/user/31evzgjsnmrdwqubdb4xhqze2oca)
                                                                                                                                 
-[![Spotify](https://cenacrharsh.vercel.app/api/spotify)](https://open.spotify.com/user/31evzgjsnmrdwqubdb4xhqze2oca)
+[![Spotify](https://spotify-now-playing-cenacrharsh.vercel.app/api/spotify)](https://open.spotify.com/user/31evzgjsnmrdwqubdb4xhqze2oca)
 
 [twitter]: https://twitter.com/cenacr007_harsh
 [instagram]: https://www.instagram.com/lone_wolf_harsh22/
