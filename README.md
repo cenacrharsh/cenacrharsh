@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning Full Stack Web Development & Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with other Open Source Contributors.
 - 🥅 2021 Goals: Start contributing to Open Source projects.
-- ⚡ Fun fact: I love to read novels, play games and watch anime.
-                                   
+- ⚡ Fun fact: I love to read novels, play games and watch anime.                                   
 <br />
                                    
 ### Connect with me:
