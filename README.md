@@ -64,8 +64,6 @@
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-                                                                                                                              
-<br />
 <br />
 
 ---
@@ -73,7 +71,7 @@
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
-- []()
+- [Introduction to React.js ⚛ and the required JavaScript!](https://dev.to/cenacr007_harsh/introduction-to-react-js-and-the-required-javascript-5coh)
 - []()                                                                                                                              
 <!-- BLOG-POST-LIST:END -->
 
