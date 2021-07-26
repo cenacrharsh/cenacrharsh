@@ -9,8 +9,7 @@
 - 👯 I’m looking to collaborate with other Open Source Contributors.
 - 🥅 2021 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I love to read novels, play games and watch anime.                                   
-<br />
-                                   
+                         
 ### Connect with me:
 
 [<img align="left" alt="harsh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
