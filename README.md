@@ -69,10 +69,6 @@
 ## My Github Status 🦸
 
 ![](https://github-readme-stats-cenacrharsh.vercel.app/api?username=cenacrharsh&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-                                                                                                                              
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31evzgjsnmrdwqubdb4xhqze2oca)
                                                                                                                                 
 
 [twitter]: https://twitter.com/cenacr007_harsh
