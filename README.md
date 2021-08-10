@@ -62,13 +62,13 @@
 ## My Recent Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to React.js ⚛ and the required JavaScript!](https://dev.to/cenacr007_harsh/introduction-to-react-js-and-the-required-javascript-5coh)
-- [Complete Introduction to Redux 🚀](https://dev.to/cenacr007_harsh/complete-introduction-to-redux-2281)
-- [Complete Introduction to React-Redux ⚛](https://dev.to/cenacr007_harsh/complete-introduction-to-react-redux-39kl)
-- [Best IDE’s and Text Editors!](https://dev.to/cenacr007_harsh/best-ide-s-and-text-editors-31i0)
-- [Basic Data Structures in JavaScript : Arrays and Objects !](https://dev.to/cenacr007_harsh/basic-data-structures-in-javascript-arrays-and-objects-3mln)
+- [Introduction to React.js ⚛ and the required JavaScript!](https://kumarharsh22.hashnode.dev/introduction-to-reactjs-and-the-required-javascript-1)
+- [Complete Introduction to Redux 🚀](https://kumarharsh22.hashnode.dev/complete-introduction-to-redux-1)
+- [Complete Introduction to React-Redux ⚛](https://kumarharsh22.hashnode.dev/complete-introduction-to-react-redux-1)
+- [Best IDE’s and Text Editors!](https://kumarharsh22.hashnode.dev/best-ides-and-text-editors)
+- [Basic Data Structures in JavaScript : Arrays and Objects !](https://kumarharsh22.hashnode.dev/basic-data-structures-in-javascript-arrays-and-objects-1)
                                                                                                                               
-➡[more blog posts...](https://dev.to/cenacr007_harsh)
+➡[more blog posts...](https://kumarharsh22.hashnode.dev/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Github Status 🦸
