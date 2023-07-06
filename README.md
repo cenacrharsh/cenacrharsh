@@ -4,11 +4,11 @@
 
 ## I'm a Student, Programmer, Developer, and Blogger!!
 
-- 🔭 I am currently in 4th yr of my College.
-- 🌱 I’m currently working as a SDE at Rubick.ai.
+- 🔭 I am a B.Tech CSE graduate.
+- 🌱 I’m currently working as an SDE at TextMercato.
 - 👯 I’m looking to collaborate with other Open Source Contributors.
-- 🥅 2022 Goals: Start contributing to Open Source projects.
-- ⚡ Fun fact: I love to read novels, play games and watch anime.                                   
+- 🥅 2023 Goals: Start contributing to Open Source projects.
+- ⚡ Fun fact: I love reading novels, playing games, and watching anime.                                   
 
 <br />
 
