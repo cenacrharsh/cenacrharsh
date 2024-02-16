@@ -7,7 +7,7 @@
 - 🔭 I am a B.Tech CSE graduate.
 - 🌱 I’m currently working as an SDE at TextMercato.
 - 👯 I’m looking to collaborate with other Open Source Contributors.
-- 🥅 2023 Goals: Start contributing to Open Source projects.
+- 🥅 2024 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I love reading novels, playing games, and watching anime.                                   
 
 <br />
